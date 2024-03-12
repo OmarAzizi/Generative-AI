@@ -17,3 +17,5 @@ The images generated were basically just noise
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/5de7306a-a8d8-49c4-8070-a1dfd842970e)
 
 ### After 100 Epochs
+![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/4aa36be2-afd9-4a39-841b-d61b11cf5902)
+
