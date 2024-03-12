@@ -12,6 +12,8 @@ I used the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset to trai
 
 ### Before Training
 The images generated were basically just noise
+
+
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/5de7306a-a8d8-49c4-8070-a1dfd842970e)
 
 ### After 100 Epochs
