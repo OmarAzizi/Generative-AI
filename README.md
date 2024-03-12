@@ -21,9 +21,20 @@ I used the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset to trai
 ### Before Training
 The images generated were basically just noise
 
-
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/5de7306a-a8d8-49c4-8070-a1dfd842970e)
 
+### After First Epoch
+
+![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/2e467cfb-9e01-4011-837f-cddcdbbcb169)
+
+### After 10 Epochs
+Generated images pattern started to look like a hand-written digit 
+
+![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/f5f2393b-64d6-4acd-9011-12997ec61ced)
+
+
 ### After 100 Epochs
+Generated images now look like hand-written digits now
+
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/4aa36be2-afd9-4a39-841b-d61b11cf5902)
 
