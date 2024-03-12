@@ -15,7 +15,7 @@ I used the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset to trai
 ------------------------------------------------
 0 | generator     | Generator     | 358 K 
 1 | discriminator | Discriminator | 21.4 K
------------------------------------------------
+------------------------------------------------
 ```
 
 
