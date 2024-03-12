@@ -10,7 +10,7 @@ A [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generativ
 ## About This Model
 I used the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset to train the GAN for generating hand-written digits. Then I used [matplotlib](https://matplotlib.org/) to plot some generated images on each epoch.
 ```bash
-  | Name          | Type          | Params
+  | Name          | Type          | Parameters 
 ------------------------------------------------
 0 | generator     | Generator     | 358 K 
 1 | discriminator | Discriminator | 21.4 K
