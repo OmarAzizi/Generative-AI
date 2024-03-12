@@ -1,5 +1,5 @@
 # Generative-AI
-A Generative Adversarial Network (GAN) consists of two neural networks, the **generator** and the **discriminator**, which are trained simultaneously through a competitive process.
+A [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network) consists of two neural networks, the **generator** and the **discriminator**, which are trained simultaneously through a competitive process.
 
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/135093fe-0be1-43f6-bf15-63ed145b3fec)
 
