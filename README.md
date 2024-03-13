@@ -39,3 +39,6 @@ Generated images now look like hand-written digits now
 
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/4aa36be2-afd9-4a39-841b-d61b11cf5902)
 
+### After 400 Epochs
+
+![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/43eeaf5d-75a1-4212-92c6-e4e0c3fa94a8)
