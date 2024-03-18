@@ -1,4 +1,6 @@
 # Generative-AI
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network) consists of two neural networks, the **generator** and the **discriminator**, which are trained simultaneously through a competitive process.
 
 ![image](https://github.com/OmarAzizi/Generative-AI/assets/110500643/135093fe-0be1-43f6-bf15-63ed145b3fec)
